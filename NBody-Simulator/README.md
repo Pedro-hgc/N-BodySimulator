@@ -799,6 +799,8 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 - Email: [Email](victor10.vg23@gmail.com)
 
 ---
+ALterações realizadas apra funcionamento em GPU
+Pedro Henrique Gomes de Campos
 
 ## 🙏 Agradecimentos
 
